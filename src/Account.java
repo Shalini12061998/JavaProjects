@@ -4,6 +4,6 @@ public class Account {
         if (amount > 6) balance += amount;
     }
     public double getBalance(){
-        return balance;
+        return balance; //return balance
     }
 }
